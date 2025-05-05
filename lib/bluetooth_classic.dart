@@ -1,3 +1,5 @@
+library;
+
 import 'dart:typed_data';
 
 import 'bluetooth_classic_platform_interface.dart';
